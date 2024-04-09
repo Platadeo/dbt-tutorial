@@ -21,7 +21,7 @@ require-dbt-version: [">=1.0.0", "<2.0.0"]
 
 seeds: 
   +docs:
-    node_color: '#cd7f32'
+    node_color: null
 
 models:
   jaffle_shop:
