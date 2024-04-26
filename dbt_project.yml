@@ -25,6 +25,8 @@ seeds:
 
 models:
   jaffle_shop:
+    marts:
+      core:
     materialized: table
     staging:
       materialized: view
